@@ -1,0 +1,22 @@
+[
+  {"id": 0, "name": "Movies", "description": "Movie and film releases for home viewing, including feature films on DVD or other home-video formats."},
+  {"id": 1, "name": "Genre for Featured Categories", "description": "Films and home-video titles organized under featured movie genre categories, spanning different storytelling genres and themes."},
+  {"id": 2, "name": "Studio Specials", "description": "Home-video releases presented in studio special selections, promotions, or studio-branded collections."},
+  {"id": 3, "name": "Musicals & Performing Arts", "description": "Musicals and performing-arts recordings, including musical films, stage performances, theater, opera, ballet, and dance."},
+  {"id": 4, "name": "A&E Home Video", "description": "A&E-branded home-video releases, including documentaries, history programs, biographies, and television collections."},
+  {"id": 5, "name": "TV", "description": "Television programs for home viewing, including series episodes, complete seasons, television specials, and TV collections."},
+  {"id": 6, "name": "Science Fiction & Fantasy", "description": "Science-fiction and fantasy films or television, involving imagined technology, space travel, speculative worlds, magic, or mythical adventures."},
+  {"id": 7, "name": "Boxed Sets", "description": "Multiple films, television seasons, or related home-video titles packaged together as a boxed collection or multi-disc set."},
+  {"id": 8, "name": "Walt Disney Studios Home Entertainment", "description": "Home-video releases branded or distributed by Walt Disney Studios Home Entertainment, including Disney films and collections."},
+  {"id": 9, "name": "Paramount Home Entertainment", "description": "Home-video films, television releases, and collections branded or distributed by Paramount Home Entertainment."},
+  {"id": 10, "name": "Blu-ray", "description": "Movies, television programs, and other video titles released on the Blu-ray Disc home-video format."},
+  {"id": 11, "name": "Art House & International", "description": "Art-house and international cinema, including auteur films, foreign-language films, and films from different national cinemas."},
+  {"id": 12, "name": "Criterion Collection", "description": "Criterion Collection home-video editions of films, including curated cinema releases and editions with supplemental material."},
+  {"id": 13, "name": "Holidays & Seasonal", "description": "Films and video programs associated with holidays, celebrations, and seasonal viewing, including Christmas and other holiday themes."},
+  {"id": 14, "name": "Music Artists", "description": "Music-artist video releases, including concerts, live performances, music videos, artist documentaries, and artist-focused collections."},
+  {"id": 15, "name": "BBC", "description": "BBC-branded television and home-video releases, including drama, documentary, comedy, and factual programming collections."},
+  {"id": 16, "name": "Fully Loaded DVDs", "description": "DVD titles marketed as fully loaded editions, emphasizing bonus features, supplementary content, and home-video extras."},
+  {"id": 17, "name": "Independently Distributed", "description": "Home-video titles distributed through independent distributors, including independently distributed films and specialized releases."},
+  {"id": 18, "name": "HBO", "description": "HBO-branded television and home-video releases, including original series, films, specials, and season collections."},
+  {"id": 19, "name": "Classics", "description": "Classic films and home-video editions of older, enduring, or historically significant cinema titles."}
+]

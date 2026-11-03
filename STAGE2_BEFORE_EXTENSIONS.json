@@ -1,0 +1,14 @@
+{
+  "stage2/mario_llm_stage2/__init__.py": "a1e9546ae3ca2dd111baf8eb456dfaab0d5a556d028742b0da4a79220d9587a8",
+  "stage2/mario_llm_stage2/checkpoint.py": "6b5cc006259e3c339f73b4b518f9750cdc330a1d20f6ab2e184f85c5222e8149",
+  "stage2/mario_llm_stage2/cli.py": "d88f7e8f17350f1c28dfac87d1a98e592bc54b765eebe71c1c69cf2d13befd4d",
+  "stage2/mario_llm_stage2/compat.py": "e2c3f1eb1904aea87050825b1e3c85ab3bf31edf93a1d93f12ffbf2059ef5437",
+  "stage2/mario_llm_stage2/constants.py": "084c879651bab62bd4820716e8b6f5e1d048997cfc3c6b2f7437b79ab21ae940",
+  "stage2/mario_llm_stage2/data.py": "4d8ab11bcc2af6db6fc222aa598e7e110a10af2c598f372f680796ef26dbfd65",
+  "stage2/mario_llm_stage2/distributed.py": "2638490f24e64160c4f8c34a1cabcb5f00719e2ee31392e380359036a2eea142",
+  "stage2/mario_llm_stage2/evaluation.py": "85b8252d3cef948a9f34063f41935bab8d513e7ce31b95d65a086fc649affe9c",
+  "stage2/mario_llm_stage2/model.py": "3ba7521bed58421ae0d5fb1481a262f5355eba1bc58be362198853ee136b25ee",
+  "stage2/mario_llm_stage2/pipeline.py": "e35a78fd0abfae2711d3ee6928f8ec23288648f7b331a959247f7f0742e9af39",
+  "stage2/mario_llm_stage2/subset.py": "5a22e192445cbb25d923b148ed54ffaf92346e15d787bc5baf56ae8079e5b09a",
+  "stage2/train_llm.py": "47d1e70ffb737541dda3464df8366816a8383c763fbb2fec5fbc92254a1d24d3"
+}
